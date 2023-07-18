@@ -7,7 +7,7 @@ Kinohub - Cервис с обзорами фильмов, их рейтинга�
 >requests 2.31.0  
 Django 3.2.20    
 djangorestframework 3.12.4  
-PyJWT 2.1.0  
+PyJWT 2.4.0  
 django-filter 22.1
 djangorestframework 3.12.4  
 
